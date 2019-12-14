@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://zsmasszazs.com/index.html</loc>
+    <lastmod>2019-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://zsmasszazs.com/images/bg_element.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://zsmasszazs.com/assets/arak_for_fb_2019.png</loc>
+    <lastmod>2019-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

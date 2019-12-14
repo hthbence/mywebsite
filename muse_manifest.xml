@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1576324926865">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="114055585" ref="index"/>
+    <file name="nomq_index.css" crc="427819090" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="arak_for_fb_2019.png" crc="381958633" seo="true" mt="1571821129000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="face_massage.svg" crc="4043605517" ref="index"/>
+    <file name="face_massage_poster_u132.png" crc="279601589" ref="index"/>
+    <file name="bg_element.svg" crc="62781120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_element_poster_.png" crc="3919014778" ref="index"/>
+    <file name="logo_plan_final.png" crc="4022622614" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spa center vector.svg" crc="3786745191" ref="index"/>
+    <file name="spa center vector_poster_u344.png" crc="414282151" ref="index"/>
+    <file name="bg.svg" crc="4258594598" ref="index"/>
+    <file name="bg_poster_u283.png" crc="4226093868" ref="index"/>
+    <file name="landing_img.svg" crc="199019838" ref="index"/>
+    <file name="landing_img_poster_u270.png" crc="139231759" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="48519151" seo="true" mt="1576324787739" redirect="true"/>
+</manifest>

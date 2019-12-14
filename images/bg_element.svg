@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 340">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cae5ea;
+      }
+    </style>
+  </defs>
+  <title>bg_element</title>
+  <path class="cls-1" d="M556,177V517a170,170,0,0,0,0-340Z" transform="translate(-556 -177)"/>
+</svg>
