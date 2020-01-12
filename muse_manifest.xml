@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1576408978884">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1578835781738">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="84214074" ref="index"/>
-    <file name="nomq_index.css" crc="447985963" ref="index"/>
+    <file name="index.css" crc="231187799" ref="index"/>
+    <file name="nomq_index.css" crc="47502005" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -69,5 +69,5 @@
     <file name="landing_img_poster_u270.png" crc="139231759" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="2808043" seo="true" mt="1576408785407" redirect="true"/>
+  <file name="index.html" crc="225817667" seo="true" mt="1578835704331" redirect="true"/>
 </manifest>
