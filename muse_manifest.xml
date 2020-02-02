@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1578835781738">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1580660702453">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="231187799" ref="index"/>
-    <file name="nomq_index.css" crc="47502005" ref="index"/>
+    <file name="index.css" crc="96033701" ref="index"/>
+    <file name="nomq_index.css" crc="142999413" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="assets">
@@ -25,33 +25,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="bg_element_poster_.png" crc="3996185423" ref="index"/>
     <file name="face_massage.svg" crc="4043605517" ref="index"/>
     <file name="face_massage_poster_u132.png" crc="279601589" ref="index"/>
-    <file name="logo_plan_final.png" crc="4022622614" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="zsanett masszazs logo_only_img.svg" crc="4110485490" ref="index"/>
+    <file name="zsanett masszazs logo_only_img_poster_u2847.png" crc="3997053056" ref="index"/>
     <file name="black-back-closed-envelope-shape.svg" crc="3962395904" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -63,11 +43,9 @@
     <file name="spa center vector_poster_u344.png" crc="414282151" ref="index"/>
     <file name="bg_pat.svg" crc="348925951" ref="index"/>
     <file name="bg_pat_poster_u1916.png" crc="57545143" ref="index"/>
-    <file name="bg.svg" crc="4258594598" ref="index"/>
-    <file name="bg_poster_u283.png" crc="4226093868" ref="index"/>
     <file name="landing_img.svg" crc="199019838" ref="index"/>
     <file name="landing_img_poster_u270.png" crc="139231759" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="225817667" seo="true" mt="1578835704331" redirect="true"/>
+  <file name="index.html" crc="347603029" seo="true" mt="1580660618604" redirect="true"/>
 </manifest>
