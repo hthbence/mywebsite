@@ -1,0 +1,47 @@
+<svg id="Countryflags.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #cf142b;
+      }
+
+      .cls-5 {
+        fill: #00247d;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(150)">
+      <circle class="cls-1" cx="150" cy="150" r="150"/>
+    </clipPath>
+  </defs>
+  <title>united-kingdom-flag-round</title>
+  <g class="cls-2">
+    <g>
+      <rect id="_14" data-name="14" class="cls-3" x="0.001" width="599.685" height="299.966"/>
+      <polygon id="_13" data-name="13" class="cls-4" points="269.856 179.889 269.856 299.966 329.831 299.966 329.831 179.889 599.687 179.889 599.687 119.92 329.831 119.92 329.831 0 269.856 0 269.856 119.92 0 119.92 0 179.889 269.856 179.889"/>
+      <polygon id="_12" data-name="12" class="cls-5" points="349.83 97.099 349.83 0 543.99 0 349.83 97.099"/>
+      <polygon id="_11" data-name="11" class="cls-5" points="349.83 202.867 349.83 299.966 543.99 299.966 349.83 202.867"/>
+      <polygon id="_10" data-name="10" class="cls-5" points="249.856 202.867 249.856 299.966 55.697 299.966 249.856 202.867"/>
+      <polygon id="_9" data-name="9" class="cls-5" points="249.856 97.099 249.856 0 55.697 0 249.856 97.099"/>
+      <polygon id="_8" data-name="8" class="cls-5" points="0.001 27.885 0.001 99.986 144.175 99.986 0.001 27.885"/>
+      <polygon id="_7" data-name="7" class="cls-5" points="599.686 27.885 599.686 99.986 455.511 99.986 599.686 27.885"/>
+      <polygon id="_6" data-name="6" class="cls-5" points="599.685 272.081 599.685 199.98 455.511 199.98 599.685 272.081"/>
+      <polygon id="_5" data-name="5" class="cls-5" points="0.001 272.081 0.001 199.98 144.175 199.98 0.001 272.081"/>
+      <polyline id="_4" data-name="4" class="cls-4" points="599.686 0 566.378 0 366.8 99.986 400.108 99.986 600 0"/>
+      <polyline id="_3" data-name="3" class="cls-4" points="232.886 199.975 199.578 199.975 0 299.961 33.308 299.961 233.2 199.975"/>
+      <polygon id="_2" data-name="2" class="cls-4" points="166.535 100.064 199.842 100.064 0.001 0 0 16.77 166.535 100.064"/>
+      <polygon id="_1" data-name="1" class="cls-4" points="433.045 199.936 399.737 199.936 599.579 300 599.58 283.23 433.045 199.936"/>
+    </g>
+  </g>
+</svg>

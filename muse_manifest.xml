@@ -1,51 +1,77 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1580660702453">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zsmasszazs.com" resolutions="1x" timestamp="1583768896358">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="96033701" ref="index"/>
-    <file name="nomq_index.css" crc="142999413" ref="index"/>
+    <file name="index.css" crc="251119572" ref="index"/>
+    <file name="nomq_index.css" crc="3984705898" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="zsanett-massage.css" crc="4207567492" ref="zsanett-massage"/>
+    <file name="nomq_zsanett-massage.css" crc="4226562646" ref="zsanett-massage"/>
+    <file name="iefonts_zsanett-massage.css" crc="3824530138" ref="zsanett-massage"/>
   </folder>
   <folder name="assets">
     <file name="arak_for_fb_2019.png" crc="381958633" seo="true" mt="1571821129000"/>
+    <file name="arak_2020.png" crc="4165549569" seo="true" mt="1583767255000"/>
+    <file name="arak_2020_eng.png" crc="4251986565" seo="true" mt="1583767912000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:zsanett-massage"/>
+    <file name="museutils.js" crc="3803043152" ref="index:zsanett-massage"/>
+    <file name="whatinput.js" crc="86476730" ref="index:zsanett-massage"/>
+    <file name="museconfig.js" crc="380897831" ref="index:zsanett-massage"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:zsanett-massage"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:zsanett-massage"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:zsanett-massage"/>
+    <file name="require.js" crc="4157109226" ref="index:zsanett-massage"/>
   </folder>
   <folder name="images">
-    <file name="bg_element.svg" crc="62781120" seo="true" ref="index">
+    <file name="bg_element.svg" crc="62781120" seo="true" ref="index:zsanett-massage">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
     </file>
     <file name="bg_element_poster_.png" crc="3996185423" ref="index"/>
-    <file name="face_massage.svg" crc="4043605517" ref="index"/>
-    <file name="face_massage_poster_u132.png" crc="279601589" ref="index"/>
-    <file name="zsanett masszazs logo_only_img.svg" crc="4110485490" ref="index"/>
-    <file name="zsanett masszazs logo_only_img_poster_u2847.png" crc="3997053056" ref="index"/>
-    <file name="black-back-closed-envelope-shape.svg" crc="3962395904" seo="true" ref="index">
+    <file name="main_bg.svg" crc="197283959" ref="index:zsanett-massage"/>
+    <file name="main_bg_poster_u3272.png" crc="96720303" ref="index:zsanett-massage"/>
+    <file name="zsanett masszazs logo_only_img.svg" crc="4110485490" ref="index:zsanett-massage"/>
+    <file name="zsanett masszazs logo_only_img_poster_u2847.png" crc="3997053056" ref="index:zsanett-massage"/>
+    <file name="united-kingdom-flag-round.svg" crc="4075755474" ref="index"/>
+    <file name="united-kingdom-flag-round_poster_u3672.png" crc="4157170476" ref="index"/>
+    <file name="bg3.svg" crc="3901953741" ref="index:zsanett-massage"/>
+    <file name="bg3_poster_u3239.png" crc="52094949" ref="index:zsanett-massage"/>
+    <file name="bg2.svg" crc="3996162663" ref="index:zsanett-massage"/>
+    <file name="bg2_poster_u3250.png" crc="4266703413" ref="index:zsanett-massage"/>
+    <file name="face_massage.svg" crc="4043605517" ref="index:zsanett-massage"/>
+    <file name="face_massage_poster_u132.png" crc="279601589" ref="index:zsanett-massage"/>
+    <file name="black-back-closed-envelope-shape.svg" crc="3962395904" seo="true" ref="index:zsanett-massage">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
+      <caption webpage="zsanett-massage" alt=""/>
     </file>
     <file name="black-back-closed-envelope-shape_poster_.png" crc="356672199" ref="index"/>
-    <file name="spa center vector.svg" crc="3786745191" ref="index"/>
-    <file name="spa center vector_poster_u344.png" crc="414282151" ref="index"/>
-    <file name="bg_pat.svg" crc="348925951" ref="index"/>
-    <file name="bg_pat_poster_u1916.png" crc="57545143" ref="index"/>
-    <file name="landing_img.svg" crc="199019838" ref="index"/>
-    <file name="landing_img_poster_u270.png" crc="139231759" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="landing_img.svg" crc="199019838" ref="index:zsanett-massage"/>
+    <file name="landing_img_poster_u270.png" crc="139231759" ref="index:zsanett-massage"/>
+    <file name="blank.gif" crc="4208392903" ref="index:zsanett-massage"/>
+    <file name="hungary-flag-round.svg" crc="59201780" ref="zsanett-massage"/>
+    <file name="hungary-flag-round_poster_u4241.png" crc="4072249453" ref="zsanett-massage"/>
   </folder>
-  <file name="index.html" crc="347603029" seo="true" mt="1580660618604" redirect="true"/>
+  <file name="index.html" crc="4119312827" seo="true" mt="1583768815381" redirect="true"/>
+  <file name="zsanett-massage.html" crc="475171251" seo="true" mt="1583768806701" redirect="true"/>
 </manifest>

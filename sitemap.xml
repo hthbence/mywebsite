@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://zsmasszazs.com/index.html</loc>
-    <lastmod>2020-02-02</lastmod>
+    <lastmod>2020-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,8 +13,32 @@
     </image:image>
   </url>
   <url>
+    <loc>http://zsmasszazs.com/zsanett-massage.html</loc>
+    <lastmod>2020-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://zsmasszazs.com/images/bg_element.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zsmasszazs.com/images/black-back-closed-envelope-shape.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://zsmasszazs.com/assets/arak_2020.png</loc>
+    <lastmod>2020-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://zsmasszazs.com/assets/arak_for_fb_2019.png</loc>
     <lastmod>2019-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zsmasszazs.com/assets/arak_2020_eng.png</loc>
+    <lastmod>2020-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
